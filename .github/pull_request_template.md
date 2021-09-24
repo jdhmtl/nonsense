@@ -6,7 +6,7 @@ If your pull request is to submit a new theme, or to update an existing one, ple
 
 ### Theme Submission Checklist
 
-- [ ] Included scheme in iTerm2 format
+- [ ] Included theme in iTerm2 format
 - [ ] Included screenshot, 13pt Monaco font, no transparency
 - [ ] Updated `README.md` with new theme and screenshot
 - [ ] Updated `CREDITS.md` with new theme
