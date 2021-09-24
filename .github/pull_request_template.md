@@ -2,7 +2,7 @@
 
 Explain the nature of your pull request here
 
-If your pull request is to submit a new theme, or to update an existing one, please ensure all the steps below have been completed
+<!-- If your pull request is to submit a new theme, or to update an existing one, please ensure all the steps below have been completed -->
 
 ### Theme Submission Checklist
 
