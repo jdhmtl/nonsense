@@ -11,16 +11,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.5
 
-      - name: Get Material Theme
-        uses: GuillaumeFalourd/clone-github-repo-action@v1
-        with:
-          owner: ovasquez
-          repository: docfx-material
-
-      - name: Copy Theme Files
-        run: |
-          cp -R docfx-material/material docs/templates
-
       - name: Build Docs
         uses: nikeee/docfx-action@v1.0.0
         with:
