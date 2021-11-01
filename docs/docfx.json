@@ -31,8 +31,12 @@
                 "files": [ "articles/images/**"]
             }
         ],
+        "template": [
+            "default",
+            "templates/material"
+        ],
         "globalMetadata": {
-            "_appTitle": "docfx seed website",
+            "_appTitle": "Nonsense LLC",
             "_enableSearch": true
         },
         "markdownEngineName": "markdig",
